@@ -1,0 +1,167 @@
+
+
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+  margin-top: 0;
+  margin-bottom: 0;
+font-family: 'Niconne', cursive;
+  font-size: 3.75rem;
+  color: #231E23;
+  font-weight: lighter;
+
+}
+p{
+  font-family: 'Akaya Telivigala', cursive;
+  color:  #393E46;
+  font-size: 18px;
+  line-height: 2;
+}
+a{
+  font-family: 'Akaya Telivigala', cursive;
+  color: #393E46;
+  font-size: 20px;
+  margin: 10px 30px;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+h2,h3{
+  color: #FFDA77;
+  font-family: 'Akaya Telivigala', cursive;
+}
+/*231E23*/
+.subhead{
+  font-family: 'Akaya Telivigala', cursive;
+    font-size: 20px;
+    color: #393E46;
+    font-weight: 200;
+
+}
+.top-nav{
+  background-color: #FFED99;
+
+}
+.navbar{
+  padding:0 4rem 1.5rem;
+}
+.nav-item{
+  padding:0 8px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Akaya Telivigala', cursive;
+}
+.navbar-brand{
+font-family: 'Akaya Telivigala', cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.top-container{
+  background-color:#FFED99;
+  position: relative;
+  padding-top: 100px;
+}
+.bottom-container{
+  background-color: #FFED99;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.top-cloud{
+  height: 90px;
+  width: 170px;
+  position: absolute;
+  right: 250px;
+  top: 40px;
+}
+.bottom-cloud{
+  height: 90px;
+  width: 170px;
+  position: absolute;
+  left: 250px;
+  top: 170px;
+}
+.city{
+  width: 800px;
+  height: 450px;
+  margin-top: 40px;
+}
+.img{
+  height: 16%;
+  width: 16%;
+  margin-top: 80px;
+}
+.skill-row{
+  margin:80px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+.skl{
+  height:25%;
+  width: 25%;
+  float: left;
+  margin-right: 40px;
+}
+.skl1{
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-left: 40px;
+}
+hr{
+  margin-top: 80px;
+  margin-bottom: 80px;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  border-color: darkgrey;
+  width: 6%;
+}
+.contact-me{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copy-right{
+  color: #393E46;
+  font-size: 1rem;
+  padding-top: 20px;
+}
+.btn {
+   background: #FFDD82;
+   background-image: -webkit-linear-gradient(top, #FFDD82, #FFDA77);
+   background-image: -moz-linear-gradient(top, #FFDD82, #FFDA77);
+   background-image: -ms-linear-gradient(top, #FFDD82, #FFDA77);
+   background-image: -o-linear-gradient(top, #FFDD82, #FFDA77);
+   background-image: -webkit-gradient(to bottom, #FFDD82, #FFDA77);
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+   color: #FFFFFF;
+   font-family: 'Akaya Telivigala', cursive;
+   font-size: 16px;
+   font-weight: 100;
+   padding: 16px;
+   border: solid #FFDA77 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #EFD07E 1px;
+   background: #FFDA77;
+   background-image: -webkit-linear-gradient(top, #FFDA77, #F7D065);
+   background-image: -moz-linear-gradient(top, #FFDA77, #F7D065);
+   background-image: -ms-linear-gradient(top, #FFDA77, #F7D065);
+   background-image: -o-linear-gradient(top, #FFDA77, #F7D065);
+   background-image: -webkit-gradient(to bottom, #FFDA77, #F7D065);
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+   text-decoration: none;
+}
